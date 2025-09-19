@@ -1,0 +1,12 @@
+[
+  { "name": "Gulab Jamun", "category": "Indian", "price": 10, "quantity": 20 },
+  { "name": "Rasgulla", "category": "Indian", "price": 12, "quantity": 15 },
+  { "name": "Ladoo", "category": "Festival", "price": 8, "quantity": 30 },
+  { "name": "Chocolate Barfi", "category": "Dessert", "price": 15, "quantity": 10 },
+  { "name": "Kaju Katli", "category": "Festival", "price": 20, "quantity": 25 },
+  { "name": "Soan Papdi", "category": "Indian", "price": 7, "quantity": 50 },
+  { "name": "Jalebi", "category": "Street Food", "price": 5, "quantity": 40 },
+  { "name": "Milk Cake", "category": "Dessert", "price": 18, "quantity": 12 },
+  { "name": "Peda", "category": "Festival", "price": 9, "quantity": 35 },
+  { "name": "Sandesh", "category": "Bengali", "price": 14, "quantity": 18 }
+]
